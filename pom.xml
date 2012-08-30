@@ -27,7 +27,7 @@ under the License.
 
   <groupId>org.apache.crunch</groupId>
   <artifactId>crunch-parent</artifactId>
-  <version>0.3.0-incubating-SNAPSHOT</version>
+  <version>0.3.0-incubating</version>
   <packaging>pom</packaging>
 
   <name>Apache Crunch</name>
